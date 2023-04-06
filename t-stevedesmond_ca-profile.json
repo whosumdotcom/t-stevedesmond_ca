@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T03:51:26Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:stevedesmond-ca"
+    },
+    {
+      "Claim": "t:stevedesmond_ca"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "9cb544091d1aea641f88d935",
+    "Timestamp": "2023-04-06T04:03:05Z",
+    "Signature": "04f2efd7ea2887f14ad9b3ac3e8f641c2c080bf9d1126c37eb1a3a24e6cfffa52aede2439dcce50739838862605bf8dc6b1aea7674081227329f8241505f954db521fceb68ef50c03e5d20ab8d312c8aeb79999178b969a670a8f9bf18c7d0ffc92918e3bf65d2cdcc61d33a59e660a2f520eaecee623d8f4efab56c34e3d7203244ef22246bb110a3eef9e3176738b9c2cffd5a64277df39f073636986d36f0d176eeef76ea2247db8776468659ea49d4aee3451d1f3278d74b83f76899125899424d7aea57d2d520e87d6e3665343b3dfc0cd6127f5008034fc6c1634d522cefbb65494dc81b8b2628f580e6eea958ee5c96ca6c8a088ba399629ba60c50ef"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "2ab43f91cb0789e1f66b4a2bb5c3f1d67df443805a8022d7fa01337dedb6c157",
+  "ContentToHash": "v1|gh:stevedesmond-ca,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:stevedesmond_ca|2023-04-06T03:51:26Z"
+}
